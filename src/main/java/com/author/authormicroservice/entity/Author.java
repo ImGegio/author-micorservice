@@ -1,6 +1,6 @@
 package com.author.authormicroservice.entity;
 
-import com.book.microservice.bookmicroservice.utils.DataSourceConstants;
+import com.author.authormicroservice.utils.DataSourceConstants;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
