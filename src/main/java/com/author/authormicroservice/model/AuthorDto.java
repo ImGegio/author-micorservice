@@ -25,5 +25,4 @@ public class AuthorDto {
     private String gender;
     private LocalDate dateOfBirth;
 
-    private List<Book> books;
 }
